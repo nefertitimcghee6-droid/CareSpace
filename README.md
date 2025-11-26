@@ -1,5 +1,5 @@
 # CareSpace
-CareSpace is a mobile app that empowers migrant workers to report safety issues anonymously, stay updated with news and events, and connect with peers through community forums. It enhances safety, well-being, and social integration while giving workers a trusted, supportive space tailored to their needs.
+CareSpace is a mobile app that empowers migrant workers to report safety issues without harming anything or anyone
 
 ---
 ## 📂 Directory Structure
