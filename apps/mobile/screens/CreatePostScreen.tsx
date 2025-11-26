@@ -1,7 +1,8 @@
-import React, { useRef, useState, useContext, useEffect } from "react";
+
 import {
   View,
-  TextInput,
+  T
+
   StyleSheet,
   TouchableOpacity,
   Text,
@@ -134,17 +135,10 @@ export default function CreatePostScreen() {
       {/* Header */}
       <View style={styles.header}>
         <View style={{ flex: 1 }} />
-        <TouchableOpacity
-          onPress={handlePost}
-          style={[
-            styles.postButton,
-            type === "anonymous"
-              ? { backgroundColor: "#e63946" }
-              : { backgroundColor: theme.primary },
-          ]}
+      m
         >
           <Text style={styles.postButtonText}>
-            {type === "public" ? "Post Publicly" : "Make Anonymous Report"}
+            {type === "public" ? "Post Publicly" : "Make Anonymousn
           </Text>
         </TouchableOpacity>
       </View>
