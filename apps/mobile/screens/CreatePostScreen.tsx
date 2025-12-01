@@ -1,6 +1,0 @@
-
-import {
-  View,
-  T
-
-  StyleSheet,
